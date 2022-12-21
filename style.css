@@ -1,4 +1,8 @@
 body{
     text-align: center;
-    background-color:#83bdff
+    background-color:#83bdff;
+    padding: 10px;
+}
+.contact{
+    padding: 20px;
 }
